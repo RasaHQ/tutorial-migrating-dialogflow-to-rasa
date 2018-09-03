@@ -1,0 +1,69 @@
+{
+  "id": "ed3b4bbd-14c3-467f-978e-45ab72b7240a",
+  "name": "place_search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "address",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "opening_hours",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "rating",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ccd59e28-0abb-4d80-9fce-39b26a79f0ac",
+          "required": true,
+          "dataType": "@query",
+          "name": "query",
+          "value": "$query",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What place are you looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "What exactly are you looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "Are you looking for a restaurant, shop, a bank or any other specific place?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a0dfb6c6-4b2c-41ae-bae3-ec06c0893c6a",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "radius",
+          "value": "$radius",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1535100293,
+  "fallbackIntent": false,
+  "events": []
+}

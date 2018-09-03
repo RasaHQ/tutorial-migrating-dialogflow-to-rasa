@@ -1,0 +1,28 @@
+{
+  "id": "2d8119a9-a41d-4a0d-9738-ae03825ffe9f",
+  "name": "rating",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The rating is #rating.param"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535041137,
+  "fallbackIntent": false,
+  "events": []
+}

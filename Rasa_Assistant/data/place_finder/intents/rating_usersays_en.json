@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7d5881e9-7f1f-4575-8644-d5d36d07c055",
+    "data": [
+      {
+        "text": "I want to know the rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016021
+  },
+  {
+    "id": "13d13c12-00f9-49ed-877a-24ef07746d3f",
+    "data": [
+      {
+        "text": "What rating does it have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016021
+  },
+  {
+    "id": "2c49c011-d0ed-4b72-beeb-4c59cd4d317d",
+    "data": [
+      {
+        "text": "Do you know the rating of this place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016021
+  },
+  {
+    "id": "25ed2368-3561-4d7d-a59d-889d5252c600",
+    "data": [
+      {
+        "text": "Tell me the rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016021
+  },
+  {
+    "id": "1c05def6-835b-458d-b381-5c9603b00028",
+    "data": [
+      {
+        "text": "Does it have a good rating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016021
+  },
+  {
+    "id": "c1c70aa8-d537-451b-a07e-515cdcc73e8d",
+    "data": [
+      {
+        "text": "What is the rating of this place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016021
+  }
+]

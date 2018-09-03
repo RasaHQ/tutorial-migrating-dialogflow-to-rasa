@@ -1,0 +1,31 @@
+{
+  "id": "bf4ad284-0f8c-4cfc-8d4b-3a2ca5ff2714",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Talk to you later.",
+            "Goodbye!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535015735,
+  "fallbackIntent": false,
+  "events": []
+}

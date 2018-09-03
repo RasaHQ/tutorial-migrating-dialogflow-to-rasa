@@ -1,0 +1,65 @@
+[
+  {
+    "value": "restaurant",
+    "synonyms": [
+      "restaurant"
+    ]
+  },
+  {
+    "value": "cinema",
+    "synonyms": [
+      "cinema"
+    ]
+  },
+  {
+    "value": "supermarket",
+    "synonyms": [
+      "supermarket",
+      "shop"
+    ]
+  },
+  {
+    "value": "bank",
+    "synonyms": [
+      "bank",
+      "atm"
+    ]
+  },
+  {
+    "value": "museum",
+    "synonyms": [
+      "museum",
+      "gallery"
+    ]
+  },
+  {
+    "value": "market",
+    "synonyms": [
+      "market"
+    ]
+  },
+  {
+    "value": "mall",
+    "synonyms": [
+      "mall"
+    ]
+  },
+  {
+    "value": "hair salon",
+    "synonyms": [
+      "hair salon"
+    ]
+  },
+  {
+    "value": "train station",
+    "synonyms": [
+      "train station"
+    ]
+  },
+  {
+    "value": "club",
+    "synonyms": [
+      "club"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "id": "c5f6c074-c5c4-41d6-88d2-b219e9f035ef",
+  "name": "thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You are very welcome!",
+            "No worries :)",
+            "Happy I could help!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535015282,
+  "fallbackIntent": false,
+  "events": []
+}

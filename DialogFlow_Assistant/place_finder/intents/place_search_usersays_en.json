@@ -1,0 +1,362 @@
+[
+  {
+    "id": "499f7db0-8d95-47be-8f53-77c13924bb95",
+    "data": [
+      {
+        "text": "- Looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016673
+  },
+  {
+    "id": "a1f68d5f-1528-499b-b9a3-4616a2492ccc",
+    "data": [
+      {
+        "text": "I am looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "bank",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " within ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "alias": "radius",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " meters from here.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535100293
+  },
+  {
+    "id": "e24c24be-7e7e-46d9-a20f-08155fab93fe",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "bank",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " anywhere close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016673
+  },
+  {
+    "id": "6f95cf89-c9d3-43a0-9f15-03bb8da7e8d3",
+    "data": [
+      {
+        "text": "I am looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " nearby.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016673
+  },
+  {
+    "id": "08cb4cec-ac54-459c-87e7-56d33506e7d4",
+    "data": [
+      {
+        "text": "I am wondering if I can find a ",
+        "userDefined": false
+      },
+      {
+        "text": "train station",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " within ",
+        "userDefined": false
+      },
+      {
+        "text": "250",
+        "alias": "radius",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " meters from here?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535100293
+  },
+  {
+    "id": "b29e6967-a559-407c-9662-887f4edc56c2",
+    "data": [
+      {
+        "text": "Please tell me is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "museum",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " around?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016673
+  },
+  {
+    "id": "b7b0ee92-4f22-434b-8ea9-6056b0ff2724",
+    "data": [
+      {
+        "text": "I am looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "hair salon",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " within ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "radius",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " meters from here.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535100293
+  },
+  {
+    "id": "31942383-dcfe-4fdc-b507-c54c4d2e7cfe",
+    "data": [
+      {
+        "text": "Where can I find the ",
+        "userDefined": false
+      },
+      {
+        "text": "mall",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016673
+  },
+  {
+    "id": "887946ad-f6f0-40f1-bd49-f3f7c04f65dd",
+    "data": [
+      {
+        "text": "Where is the closest ",
+        "userDefined": false
+      },
+      {
+        "text": "shop",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016673
+  },
+  {
+    "id": "24197ff5-2223-4ab9-938d-dccad078debf",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "market",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " within ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "alias": "radius",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " meters?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535100293
+  },
+  {
+    "id": "f4e980e4-386b-46d0-85fd-c86637e27351",
+    "data": [
+      {
+        "text": "Can you tell me where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "museum",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "radius",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " meters from where I am?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535100293
+  },
+  {
+    "id": "31ab5535-06b4-4b6e-9911-91101e864c91",
+    "data": [
+      {
+        "text": "Looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "supermarket",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      },
+      {
+        "text": " within ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "alias": "radius",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " meters from me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535100293
+  },
+  {
+    "id": "977db7f6-d632-41bf-ac16-4d74ab0b18d3",
+    "data": [
+      {
+        "text": "Where is the closest ",
+        "userDefined": false
+      },
+      {
+        "text": "cinema",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016673
+  },
+  {
+    "id": "05852b19-62ef-4ead-a4f0-31b1b9db0055",
+    "data": [
+      {
+        "text": "I am looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "query",
+        "meta": "@query",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016673
+  }
+]

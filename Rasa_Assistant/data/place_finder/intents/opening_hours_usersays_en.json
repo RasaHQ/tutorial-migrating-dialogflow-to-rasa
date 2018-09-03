@@ -1,0 +1,128 @@
+[
+  {
+    "id": "f2fed1f8-fa82-4efa-b40f-b24e5d3f0e16",
+    "data": [
+      {
+        "text": "Is the place still open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  },
+  {
+    "id": "f9707e13-ac59-4b0e-bbeb-d49bfcc86aaf",
+    "data": [
+      {
+        "text": "Is the place open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  },
+  {
+    "id": "9d3ccf4e-8773-4f2e-8e54-82c0b6bb25f4",
+    "data": [
+      {
+        "text": "Tell me if it\u0027s open.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  },
+  {
+    "id": "6e4e1779-cddf-4e03-8500-abd125496c0f",
+    "data": [
+      {
+        "text": "Can you tell me if it\u0027s open at the moment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  },
+  {
+    "id": "cf85c5ab-3b84-4d86-a47a-a62cd2c76880",
+    "data": [
+      {
+        "text": "If I go there now, is it still open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  },
+  {
+    "id": "d216713f-1522-4cf7-8189-0310d0d92354",
+    "data": [
+      {
+        "text": "Is it open at the moment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  },
+  {
+    "id": "0a8f3482-a6fd-4bb8-9262-ca1b56be4064",
+    "data": [
+      {
+        "text": "Is it working?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  },
+  {
+    "id": "38c16821-c207-46e9-926b-339fb5c68d77",
+    "data": [
+      {
+        "text": "Is it currently open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  },
+  {
+    "id": "6e614ab3-0c27-4d88-9748-46f14f2e513e",
+    "data": [
+      {
+        "text": "Is it still open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015867
+  }
+]

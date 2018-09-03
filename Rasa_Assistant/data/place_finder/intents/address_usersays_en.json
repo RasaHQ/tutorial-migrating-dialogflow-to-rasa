@@ -1,0 +1,158 @@
+[
+  {
+    "id": "7ec8912d-30d1-4530-b4ec-b823164ecc5d",
+    "data": [
+      {
+        "text": "What is an actual address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "68335a45-6ce7-4f7f-8d29-747830a0ff7d",
+    "data": [
+      {
+        "text": "Where is this place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "d4e85ba5-4e14-44e8-9b2d-515873d2eedb",
+    "data": [
+      {
+        "text": "What is the address of this place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "9167b475-af8c-4d9a-bd61-e874de6c2e13",
+    "data": [
+      {
+        "text": "I am wondering how long does it take to get to the location?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "44b80bbb-1d47-46a0-81db-45af23e21e42",
+    "data": [
+      {
+        "text": "Does it take a long time to get to the place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "0b67ea53-0a3b-4a62-9763-e191b15c01f2",
+    "data": [
+      {
+        "text": "Does it take long to get there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "85ef39ac-18ee-413a-a46c-f59735eba72f",
+    "data": [
+      {
+        "text": "Can you please tell me the actual address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "f07745ff-2320-4559-97cf-c59fb5bb8c2e",
+    "data": [
+      {
+        "text": "Where about is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "26754527-b140-4006-9e08-2e0a3fffaf9d",
+    "data": [
+      {
+        "text": "What is the location of it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "ceba143a-a740-4799-93c9-0c7b1d1f55aa",
+    "data": [
+      {
+        "text": "Where is the place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "f7492e7e-49c5-4a80-8e71-673de7b38779",
+    "data": [
+      {
+        "text": "Can you tell me the address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "e3c9af1d-5b55-412a-a56b-d71110265c7a",
+    "data": [
+      {
+        "text": "What\u0027s the address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  },
+  {
+    "id": "bf636256-d797-41cd-be35-64fc5b605ece",
+    "data": [
+      {
+        "text": "Where is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015959
+  }
+]
