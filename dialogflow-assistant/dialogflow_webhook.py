@@ -19,7 +19,7 @@ def index():
     req = request.get_json()
     session = req.get('session') #get session id
     query = req.get('queryResult').get('parameters').get('query') #retrieve the value of the entity query
-    radius = req.get('queryResult').get('parameters').get('radius') # retrieve the value of the entity radius
+    radius = req.get('queryResult').get('parameters').get('number') # retrieve the value of the entity radius
 
     get_origin = requests.post("https://www.googleapis.com/geolocation/v1/geolocate?key={}".format(api_key)).json() # get user's current location
     origin_lat = get_origin['location']['lat']

@@ -15,7 +15,7 @@
 ## location_search_01
 * Default Welcome Intent
 	- utter_greet
-* place_search{"query":"restaurant", "number":"fifty five"}
+* place_search{"query":"restaurant", "number":"55"}
 	- action_place_search
 	- slot{"location_match":"one"}
 	- slot{"rating":"4.5"}
@@ -36,7 +36,7 @@
 ## location_search_02
 * Default Welcome Intent
 	- utter_greet
-* place_search{"query":"restaurant", "number":"twenty one"}
+* place_search{"query":"restaurant", "number":"21"}
 	- action_place_search
 	- slot{"location_match":"none"}
 	- utter_no_results
@@ -48,7 +48,7 @@
 ## location_search_03
 * Default Welcome Intent
 	- utter_greet
-* place_search{"query":"restaurant", "number":"thirty six"}
+* place_search{"query":"restaurant", "number":"36"}
 	- action_place_search
 	- slot{"location_match":"one"}
 	- slot{"rating":"4.7"}

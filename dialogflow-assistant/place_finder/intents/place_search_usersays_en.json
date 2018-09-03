@@ -40,7 +40,7 @@
       },
       {
         "text": "25",
-        "alias": "radius",
+        "alias": "number",
         "meta": "@sys.number",
         "userDefined": true
       },
@@ -116,7 +116,7 @@
       },
       {
         "text": "250",
-        "alias": "radius",
+        "alias": "number",
         "meta": "@sys.number",
         "userDefined": true
       },
@@ -170,7 +170,7 @@
       },
       {
         "text": "20",
-        "alias": "radius",
+        "alias": "number",
         "meta": "@sys.number",
         "userDefined": true
       },
@@ -246,7 +246,7 @@
       },
       {
         "text": "500",
-        "alias": "radius",
+        "alias": "number",
         "meta": "@sys.number",
         "userDefined": true
       },
@@ -278,7 +278,7 @@
       },
       {
         "text": "100",
-        "alias": "radius",
+        "alias": "number",
         "meta": "@sys.number",
         "userDefined": true
       },
@@ -310,7 +310,7 @@
       },
       {
         "text": "50",
-        "alias": "radius",
+        "alias": "number",
         "meta": "@sys.number",
         "userDefined": true
       },

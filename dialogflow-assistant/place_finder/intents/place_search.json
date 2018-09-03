@@ -50,8 +50,8 @@
           "id": "a0dfb6c6-4b2c-41ae-bae3-ec06c0893c6a",
           "required": true,
           "dataType": "@sys.number",
-          "name": "radius",
-          "value": "$radius",
+          "name": "number",
+          "value": "$number",
           "isList": false
         }
       ],
