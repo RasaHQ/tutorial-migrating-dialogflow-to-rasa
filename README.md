@@ -7,14 +7,14 @@ This repository contains the code of the example assistant used to demonstrate t
 The repository consists of two directories:  
 
 - **dialogflow-assistant** contains the files of the place_finder assistant implementation in DialogFlow.  
-- **rasa-assistant** contains the files of the same assistant migrated to Rasa.   
+- **rasa-assistant** contains the files of the same assistant migrated to Rasa. You should use the files of this directory if you want to follow the tutorial step-by-step.   
 
 To run this assistant you will need a [Google Place API](https://developers.google.com/places/web-service/get-api-key) key which you should provide inside the credentials.yml file of these directories.
 
 
 ## Setup and installation
 
-In order to Run this assistant on Rasa, you will need Rasa NLU, Rasa Core libraries and few additional dependencies. You can install them all by running the following command:  
+In order to Run this assistant on Rasa, you will need Rasa NLU, Rasa Core libraries and a few additional dependencies. You can install them all by running the following command:  
 
 ```
 pip install -r requirements.txt
