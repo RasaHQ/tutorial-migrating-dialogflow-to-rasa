@@ -1,6 +1,6 @@
 ﻿# Place Finder assistant migrated to Rasa
 
-This repository contains the code of the place finder assistant migrated to Rasa. You should use these files if you want to follow along the tutorial published here.
+This repository contains the code of the place finder assistant migrated to Rasa. You should use these files if you want to follow along the tutorial published [here](https://medium.com/rasa-blog/how-to-migrate-your-existing-google-dialogflow-assistant-to-rasa-412cd07f424a).
 
 
 ## What's in this repository
