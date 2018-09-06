@@ -1,6 +1,6 @@
 ﻿# Place Finder assistant implemented in DialogFlow
 
-This repository contains the code of the place finder assistant implemented in DialogFlow. If you want to fully replicate the tutorial here, you can load this assistant to DialogFlow.
+This repository contains the code of the place finder assistant implemented in DialogFlow. If you want to fully replicate the tutorial [here](https://medium.com/rasa-blog/how-to-migrate-your-existing-google-dialogflow-assistant-to-rasa-412cd07f424a), you can load this assistant to DialogFlow.
 
 
 ## What's in this repository
