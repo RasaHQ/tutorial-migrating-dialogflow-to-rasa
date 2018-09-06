@@ -1,6 +1,6 @@
 ﻿# How to migrate your existing Google DialogFlow assistant to Rasa
 
-This repository contains the code of the example assistant used to demonstrate the migration from DialogFlow to Rasa in a blogpost:
+This repository contains the code of the example assistant used to demonstrate the migration from DialogFlow to Rasa in a blogpost [How to migrate your existing Google DialogFlow assistant to Rasa.](https://medium.com/rasa-blog/how-to-migrate-your-existing-google-dialogflow-assistant-to-rasa-412cd07f424a)
 
 
 ## What's in this repository
