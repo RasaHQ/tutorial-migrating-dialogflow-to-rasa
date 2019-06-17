@@ -1,9 +1,5 @@
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import unicode_literals
-
-from rasa_core_sdk import Action
-from rasa_core_sdk.events import SlotSet, AllSlotsReset
+from rasa_sdk import Action, Tracker
+from rasa_sdk.events import SlotSet, AllSlotsReset
 import requests
 import json
 from random import randint
@@ -25,7 +21,7 @@ class ActionPlaceSearch(Action):
         radius = tracker.get_slot('number')		
 
         #retrieve google api key		
-        with open("./credentials.yml", 'r') as ymlfile:
+        with open("./ga_credentials.yml", 'r') as ymlfile:
             cfg = yaml.load(ymlfile)
         key = cfg['credentials']['GOOGLE_KEY']
 		
