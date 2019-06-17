@@ -9,10 +9,11 @@ The repository consists of the following files and directories:
 - **data** directory contains the NLU data exported from DialogFlow and stories.md file which contains training stories for Rasa Core model.  
 - **actions.py** the code of the custom action used to retrieve data from Google Places API.
 - **config.yml** contains the configuration of NLU processing pipeline.
-- **credentials.yml** is a file where you should place your Google Places API key.
+- **ga_credentials.yml** is a file where you should place your Google Places API key.
 - **domain.yml** file contains the domain configuration of the assistant.
 - **endpoints.yml** contains the webhook configuration for the custom action.
+- **models** contains the trained NLU and Core models.
 
-To run this assistant you will need a [Google Place API](https://developers.google.com/places/web-service/get-api-key) key which you should provide inside the credentials.yml file of these directories.
+To run this assistant you will need a [Google Place API](https://developers.google.com/places/web-service/get-api-key) key which you should provide inside the ga_credentials.yml file of this directory.
 
 If you have any questions regarding the tutorial or this repository, please post them on the [Rasa Community Forum](https://forum.rasa.com)!
