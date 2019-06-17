@@ -17,7 +17,7 @@ To run this assistant you will need a [Google Place API](https://developers.goog
 In order to Run this assistant on Rasa, you will need Rasa NLU, Rasa Core libraries and a few additional dependencies. You can install them all by running the following command:  
 
 ```
-pip install -r requirements.txt
+pip install rasa-x --extra-index-url https://pypi.rasa.com/simple
 ```  
 
 You also need to install a spaCy English language model. You can install it by running:  
